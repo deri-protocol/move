@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e21c99a8.css",
-    "main.js": "/static/js/main.2cb88f77.js",
+    "main.js": "/static/js/main.0b1428bd.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/ceo.svg": "/static/media/ceo.550ff9eb04ff4465572b.svg",
     "static/media/share-position-power.svg": "/static/media/share-position-power.f62cbaad2587c24cbc73.svg",
@@ -123,6 +123,7 @@
     "static/media/warning-linea.svg": "/static/media/warning-linea.314836f48b04a2728b78.svg",
     "static/media/lost-waring.svg": "/static/media/lost-waring.4dc5e438b5105dbfb4ed.svg",
     "static/media/arbitrum-chain-logo.svg": "/static/media/arbitrum-chain-logo.1ce14b0763d8e5b1c8ea.svg",
+    "static/media/DEXUSDC.svg": "/static/media/DEXUSDC.ae015873138ffe4281cb.svg",
     "static/media/USDC.E.svg": "/static/media/USDC.E.ae015873138ffe4281cb.svg",
     "static/media/USDC.svg": "/static/media/USDC.ae015873138ffe4281cb.svg",
     "static/media/deri-based-tip.svg": "/static/media/deri-based-tip.1a34bcf19471a922289c.svg",
@@ -261,6 +262,6 @@
   },
   "entrypoints": [
     "static/css/main.e21c99a8.css",
-    "static/js/main.2cb88f77.js"
+    "static/js/main.0b1428bd.js"
   ]
 }
