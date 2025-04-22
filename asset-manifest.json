@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3f138f7f.css",
-    "main.js": "/static/js/main.d55d9e15.js",
+    "main.js": "/static/js/main.79ce0658.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/ceo.svg": "/static/media/ceo.550ff9eb04ff4465572b.svg",
     "static/media/share-position-power.svg": "/static/media/share-position-power.f62cbaad2587c24cbc73.svg",
@@ -211,7 +211,6 @@
     "static/media/WBNB.svg": "/static/media/WBNB.a4a83ea597956a71d8b8.svg",
     "static/media/drop-up.svg": "/static/media/drop-up.086d70f8891336866526.svg",
     "static/media/drop-down.svg": "/static/media/drop-down.291a542785088742ee05.svg",
-    "static/media/deri.svg": "/static/media/deri.520d2449010ba041d79ad6e2863c3bdb.svg",
     "static/media/search.svg": "/static/media/search.09d940054c58c4acb1c1b905c175fa68.svg",
     "static/media/staked.svg": "/static/media/staked.45c27f0bfbf6a33ab73db1516cef42f5.svg",
     "static/media/deposit.svg": "/static/media/deposit.cf59e8207f0349d5a2a5.svg",
@@ -262,6 +261,6 @@
   },
   "entrypoints": [
     "static/css/main.3f138f7f.css",
-    "static/js/main.d55d9e15.js"
+    "static/js/main.79ce0658.js"
   ]
 }
