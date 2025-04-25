@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9c5d8f9a.css",
-    "main.js": "/static/js/main.7efffec0.js",
+    "main.js": "/static/js/main.f8cf16e1.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/ceo.svg": "/static/media/ceo.550ff9eb04ff4465572b.svg",
     "static/media/share-position-power.svg": "/static/media/share-position-power.f62cbaad2587c24cbc73.svg",
@@ -261,6 +261,6 @@
   },
   "entrypoints": [
     "static/css/main.9c5d8f9a.css",
-    "static/js/main.7efffec0.js"
+    "static/js/main.f8cf16e1.js"
   ]
 }
