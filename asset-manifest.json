@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e61e3ce1.css",
-    "main.js": "/static/js/main.71f504de.js",
+    "main.css": "/static/css/main.8e09c0a8.css",
+    "main.js": "/static/js/main.860554b2.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/tools-bg-img.jpg": "/static/media/tools-bg-img.3ca6efb6ed3d69c8a892.jpg",
     "static/media/share-position-power.svg": "/static/media/share-position-power.f62cbaad2587c24cbc73.svg",
@@ -59,8 +59,12 @@
     "static/media/close-only.svg": "/static/media/close-only.480d2b7652352096c903.svg",
     "static/media/TON.svg": "/static/media/TON.c12d9238a7ba1e395187.svg",
     "static/media/share-twitter.svg": "/static/media/share-twitter.88028a1a833f255ab7e72830a2d0deac.svg",
+    "static/media/tg-icon.svg": "/static/media/tg-icon.0a8663682b4d37ed3537.svg",
     "static/media/supra-chain-logo.svg": "/static/media/supra-chain-logo.ac81ee1a670fc436c98c.svg",
+    "static/media/error-big.svg": "/static/media/error-big.19f30ed1b7232af34725.svg",
+    "static/media/success-big.svg": "/static/media/success-big.1be3511ac26ec94220b5.svg",
     "static/media/no-data-icon.svg": "/static/media/no-data-icon.a143531c53c651aed10e.svg",
+    "static/media/select.svg": "/static/media/select.439a683eef06facc9002.svg",
     "static/media/FITFI.svg": "/static/media/FITFI.f0353c4d841db5d55983.svg",
     "static/media/warning-blue.svg": "/static/media/warning-blue.4687b9ad2afd6afc50b5.svg",
     "static/media/CBBTC.svg": "/static/media/CBBTC.72a36e23b24e60df1335.svg",
@@ -140,6 +144,7 @@
     "static/media/lang-icon.svg": "/static/media/lang-icon.2c64ed512594a50b5adeea9956849bfb.svg",
     "static/media/hint.svg": "/static/media/hint.0513bd8e9951007e446d.svg",
     "static/media/no-volatility.svg": "/static/media/no-volatility.cab9c7add96aa4bdf1a6a5ab7aa87715.svg",
+    "static/media/cytonic-chain-logo.svg": "/static/media/cytonic-chain-logo.347a395f5e86598f37f3.svg",
     "static/media/warn.svg": "/static/media/warn.55ea5dfded9dc579b3b8.svg",
     "static/media/pnlUp.svg": "/static/media/pnlUp.067f9fff65185eaf96aefa573c7fb29d.svg",
     "static/media/medium.svg": "/static/media/medium.c6bcdb22cce368bc819d.svg",
@@ -240,7 +245,7 @@
     "static/media/menu.svg": "/static/media/menu.5b5e698afeec5bfcd0de.svg"
   },
   "entrypoints": [
-    "static/css/main.e61e3ce1.css",
-    "static/js/main.71f504de.js"
+    "static/css/main.8e09c0a8.css",
+    "static/js/main.860554b2.js"
   ]
 }
