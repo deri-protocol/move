@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8e09c0a8.css",
-    "main.js": "/static/js/main.96b369d3.js",
+    "main.css": "/static/css/main.0da7d14f.css",
+    "main.js": "/static/js/main.ccf3002e.js",
     "static/js/27.57be17c9.chunk.js": "/static/js/27.57be17c9.chunk.js",
     "static/media/tools-bg-img.jpg": "/static/media/tools-bg-img.3ca6efb6ed3d69c8a892.jpg",
     "static/media/share-position-power.svg": "/static/media/share-position-power.f62cbaad2587c24cbc73.svg",
@@ -54,6 +54,7 @@
     "static/media/discord.svg": "/static/media/discord.54d288083912df8c303a.svg",
     "static/media/share-telegram.svg": "/static/media/share-telegram.6c8a69c773226ad5be2c.svg",
     "static/media/PEPE.svg": "/static/media/PEPE.5f64199e4836712b2344.svg",
+    "static/media/USD1.svg": "/static/media/USD1.85175e3cf906fec9ada3.svg",
     "static/media/tradingleaderboards.svg": "/static/media/tradingleaderboards.9181e7c2fca7355dcaec.svg",
     "static/media/share-discord.svg": "/static/media/share-discord.87004a685ef909fada2d.svg",
     "static/media/close-only.svg": "/static/media/close-only.480d2b7652352096c903.svg",
@@ -245,7 +246,7 @@
     "static/media/menu.svg": "/static/media/menu.5b5e698afeec5bfcd0de.svg"
   },
   "entrypoints": [
-    "static/css/main.8e09c0a8.css",
-    "static/js/main.96b369d3.js"
+    "static/css/main.0da7d14f.css",
+    "static/js/main.ccf3002e.js"
   ]
 }
